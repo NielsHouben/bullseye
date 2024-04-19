@@ -1,6 +1,8 @@
-# Nuxt 3 Minimal Starter
+### Credits
+Original dartboard by David Williams from [this project](https://github.com/waspyfaeleith/clickable_js_darts_scorer)
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+### Ideas
+Dartboard heatmap could be replaced with polar/sunburst/multi-level pie chart
 
 ## Setup
 
